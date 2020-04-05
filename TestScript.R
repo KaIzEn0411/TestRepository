@@ -1,2 +1,3 @@
-Print("This script is created within RStudio")
-print("This is reflected in GitHub account linked")
+print("This script is created in RStudio")
+
+Print("This script can be seen linked GitHub account")
